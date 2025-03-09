@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+i am a master
+=======
+i am a branch login
+>>>>>>> login
+i am a master
+
+i am payment
